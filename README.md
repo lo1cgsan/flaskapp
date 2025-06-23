@@ -1,0 +1,2 @@
+# flaskapp
+Projekt aplikacji sieciowej
